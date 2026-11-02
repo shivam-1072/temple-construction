@@ -1,0 +1,248 @@
+{
+  "hero": {
+    "kicker": "Vastu design · Hand-carved stone · Full construction",
+    "titleA": "We build",
+    "titleOutline": "beautiful temples",
+    "titleB": "in stone.",
+    "sub": "Design, stone, carving, building, finishing — one team does everything.",
+    "ctaPrimary": "Start your temple",
+    "ctaSecondary": "See our work"
+  },
+  "stats": [
+    {
+      "value": 48,
+      "suffix": "+",
+      "label": "Temples built"
+    },
+    {
+      "value": 32,
+      "suffix": " yrs",
+      "label": "Family experience"
+    },
+    {
+      "value": 120,
+      "suffix": "+",
+      "label": "Skilled workers"
+    },
+    {
+      "value": 9,
+      "suffix": "",
+      "label": "States + 4 countries"
+    }
+  ],
+  "services": [
+    {
+      "n": "01",
+      "t": "Design as per Vastu",
+      "d": "Full drawing as per Shastra rules, plus a 3D model you approve before work starts."
+    },
+    {
+      "n": "02",
+      "t": "Right stone selection",
+      "d": "Quarry visit, strength testing, and honest advice as per your budget."
+    },
+    {
+      "n": "03",
+      "t": "Hand carving work",
+      "d": "Gods, jaalis and towers carved by hand. Site photos every 15 days."
+    },
+    {
+      "n": "04",
+      "t": "Tower & hall building",
+      "d": "Nagara, Dravida, Vesara styles with a strong modern core inside."
+    },
+    {
+      "n": "05",
+      "t": "Old temple repair",
+      "d": "Stone-matched, careful repair that keeps the original look. Try the slider below."
+    },
+    {
+      "n": "06",
+      "t": "Pratishtha help",
+      "d": "Date planning with your acharya, kalash, flag and full handover."
+    }
+  ],
+  "process": [
+    {
+      "t": "First meeting",
+      "d": "Site visit, soil and direction check, clear full-cost quote."
+    },
+    {
+      "t": "Drawing",
+      "d": "Drawings + 3D model. See your temple before it is built."
+    },
+    {
+      "t": "Stone & carving",
+      "d": "Stone buying and carving starts. Photos every 15 days."
+    },
+    {
+      "t": "Building",
+      "d": "Stones fixed one by one under our sthapati engineer."
+    },
+    {
+      "t": "Finishing",
+      "d": "Kalash, polish, cleaning and pratishtha help."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Shiva Temple, Udaipur",
+      "place": "Udaipur, Rajasthan",
+      "style": "Nagara",
+      "stone": "Sandstone",
+      "img": "project-1.jpg"
+    },
+    {
+      "title": "Marble Jain Temple",
+      "place": "Ahmedabad, Gujarat",
+      "style": "Nagara",
+      "stone": "Marble",
+      "img": "project-7.jpg"
+    },
+    {
+      "title": "Granite Gopuram",
+      "place": "Kanchipuram, Tamil Nadu",
+      "style": "Dravida",
+      "stone": "Granite",
+      "img": "project-8.jpg"
+    },
+    {
+      "title": "Hanuman Temple",
+      "place": "Indore, MP",
+      "style": "Nagara",
+      "stone": "Sandstone",
+      "img": "project-4.jpg"
+    },
+    {
+      "title": "Night Courtyard Shrine",
+      "place": "Nathdwara, Rajasthan",
+      "style": "Nagara",
+      "stone": "Sandstone",
+      "img": "project-9.jpg"
+    },
+    {
+      "title": "Meditation Hall",
+      "place": "Bengaluru, Karnataka",
+      "style": "Vesara",
+      "stone": "Soapstone",
+      "img": "project-5.jpg"
+    },
+    {
+      "title": "Vishnu Temple",
+      "place": "Kanchipuram, Tamil Nadu",
+      "style": "Dravida",
+      "stone": "Granite",
+      "img": "project-3.jpg"
+    },
+    {
+      "title": "Community Mandir",
+      "place": "Surat, Gujarat",
+      "style": "Nagara",
+      "stone": "Marble",
+      "img": "project-2.jpg"
+    },
+    {
+      "title": "Stepwell Restoration",
+      "place": "Patan, Gujarat",
+      "style": "Restoration",
+      "stone": "Sandstone",
+      "img": "project-6.jpg"
+    }
+  ],
+  "stones": [
+    {
+      "t": "Sandstone",
+      "d": "Warm colour, easy to carve, fits most budgets.",
+      "sw": "linear-gradient(135deg,#d9a86c,#b0722e)"
+    },
+    {
+      "t": "Marble",
+      "d": "Bright white stone for calm, glowing temples.",
+      "sw": "linear-gradient(135deg,#f4f1ea,#c9c4b8)"
+    },
+    {
+      "t": "Granite",
+      "d": "Very hard, very long life. South-Indian pride.",
+      "sw": "linear-gradient(135deg,#6b6f77,#33353b)"
+    },
+    {
+      "t": "Soapstone",
+      "d": "Soft stone for fine detail in small shrines.",
+      "sw": "linear-gradient(135deg,#9db3a4,#5c7263)"
+    }
+  ],
+  "team": [
+    {
+      "name": "Deepak Sompura",
+      "role": "Chairman & Director",
+      "img": "team-1.jpg",
+      "short": "Heads the studio and every site.",
+      "bio": "Second-generation temple builder from a Sompura sthapati family. Stone work since age 16, 40+ temples led across India.",
+      "points": [
+        "Final approver of every drawing and stone",
+        "Leads site visits and cost quotes",
+        "One contact for trust committees"
+      ]
+    },
+    {
+      "name": "Vedant Sompura",
+      "role": "Lead Architect",
+      "img": "team-2.jpg",
+      "short": "Turns Shastra rules into drawings.",
+      "bio": "Architect who studied temple texts with senior sthapatis. Makes the Vastu drawings and 3D models you approve first.",
+      "points": [
+        "Vastu and Shastra planning",
+        "3D models and walkthroughs",
+        "Tower shape and sizing"
+      ]
+    },
+    {
+      "name": "Rahul Sompura",
+      "role": "Design Head",
+      "img": "team-3.jpg",
+      "short": "Designs every carving detail.",
+      "bio": "Master designer who draws every jaali, toran and tower layer full-size before carving. Nothing is carved without his drawing.",
+      "points": [
+        "Carving patterns and idol frames",
+        "Colour and finish selection",
+        "Photo checks of yard work"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "q": "What we saw in 3D is exactly what stands today.",
+      "w": "Temple Trust Head — Udaipur"
+    },
+    {
+      "q": "Our donors in America watched the tower rise in photos.",
+      "w": "Donor Group — Indore"
+    },
+    {
+      "q": "They matched 200-year-old stone piece by piece.",
+      "w": "Heritage Group — Patan"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much time does a temple take?",
+      "a": "About 10–14 months for a normal sandstone temple after drawings are final. Marble or granite takes a little more."
+    },
+    {
+      "q": "What will be the cost?",
+      "a": "It depends on place, stone, size and carving. After a free site visit you get a full item-wise quote. Booking is never more than 10%."
+    },
+    {
+      "q": "Do you follow Vastu rules?",
+      "a": "Yes. Direction, room sizes and tower shape follow old Shastra texts, checked by our sthapati."
+    },
+    {
+      "q": "Do you work outside our state or country?",
+      "a": "Yes — 9 states and 4 countries so far. Travel and stay planning is done by us."
+    },
+    {
+      "q": "Do you repair old temples?",
+      "a": "Yes. Send photos on WhatsApp for a free first opinion."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: { name: temple-frontend, namespace: temple-site }
+spec:
+  replicas: 2
+  selector: { matchLabels: { app: temple-frontend } }
+  template:
+    metadata: { labels: { app: temple-frontend } }
+    spec:
+      containers:
+        - name: web
+          image: ghcr.io/YOUR_ORG/temple-nirman-website-frontend:latest
+          ports: [{ containerPort: 80 }]
+---
+apiVersion: v1
+kind: Service
+metadata: { name: temple-frontend, namespace: temple-site }
+spec:
+  selector: { app: temple-frontend }
+  ports: [{ port: 80, targetPort: 80 }]

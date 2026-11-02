@@ -1,0 +1,11 @@
+{
+  "name": "temple-nirman-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Temple construction contractor website — full-stack, Docker-ready",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "serve:frontend": "npx serve frontend -l 8080",
+    "zip": "node scripts/make-zip.js"
+  }
+}

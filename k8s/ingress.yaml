@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: temple-ingress
+  namespace: temple-site
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  ingressClassName: nginx
+  rules:
+    - host: example.com   # ← change to client domain
+      http:
+        paths:
+          - path: /api
+            pathType: Prefix
+            backend: { service: { name: temple-backend, port: { number: 3001 } } }
+          - path: /
+            pathType: Prefix
+            backend: { service: { name: temple-frontend, port: { number: 80 } } }
